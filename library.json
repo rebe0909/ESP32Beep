@@ -1,0 +1,23 @@
+{
+  "name": "Beep",
+  "keywords": "Beep",
+  "description": "A simple Beep Lib for controlling Beeps with ESP32",
+  "homepage": "https://github.com/rebe0909/ESP32Beep",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rebe0909/ESP32Beep.git"
+  },
+  "version": "1.00.0",
+  "authors": {
+    "name": "Reinhard",
+    "url": "https://github.com/rebe0909/ESP32Beep"
+  },
+  "exclude": [
+    "fuzzing",
+    "scripts",
+    "test",
+    "third-party"
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
