@@ -9,7 +9,7 @@ class Beep {
         void StartBeep1(unsigned int len);
         void StartBeep2(unsigned int len, unsigned int pause);
         void StartBeep3(unsigned int len, unsigned int pause, unsigned int count);
-        void CheckAllBeeps(void);
+        void CheckBeeps(void);
     private:
     
 };
